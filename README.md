@@ -1,16 +1,21 @@
-## Hi there 👋
+# Anna Luisa
 
-<!--
-**annasantosabreu/annasantosabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jovem aprendiz no PicPay, atuando como analista de dados na área de Shop.
+Estudante de Desenvolvimento de Sistemas (Ensino Médio Técnico) no Instituto J&F Tech,
+em busca do primeiro estágio em Dados ou Engenharia de Software.
 
-Here are some ideas to get you started:
+## Foco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Análise de dados com SQL e o caminho do dado até a decisão: modelagem,
+indicadores e visualização. Na parte de software, back-end com Java
+e APIs REST.
+
+## Tecnologias
+
+**Em projetos publicados**
+Java · Spring Boot · JavaScript · HTML · CSS · Git e GitHub
+
+**Em estudo e uso acadêmico**
+PostgreSQL · Python · Android · Business Intelligence
+
+## Contato
